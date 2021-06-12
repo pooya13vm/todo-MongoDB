@@ -3,7 +3,7 @@
 It as a training project to learn MongoDB
 
 ## Technologies
-Project is created with:
+Project is created with:\n
 node.js
 express.js
 MongoDB
