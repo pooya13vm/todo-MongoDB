@@ -1,6 +1,6 @@
 # todo-app
 ## General info
-It as a training project to learn MongoDB
+It as a training project to work on MongoDB Database
 
 ## Technologies
 #### Project is created with:
