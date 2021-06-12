@@ -18,3 +18,4 @@ It as a training project to learn MongoDB
 *To run this project, install it locally using npm:
 *$ npm install
 *$ npm start
+
