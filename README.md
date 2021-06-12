@@ -11,9 +11,9 @@ It as a training project to work on MongoDB Database
 #### ejs (template engine)
 #### Bootstrap 5
 #### font-awesome
-####
-#### the project is made with MVC design pattern
 *
+#### the project is made with MVC design pattern
+
 ## Setup
 #### To run this project, install it locally using npm:
 #### $ npm install
